@@ -8,17 +8,22 @@ Quantile regression:- https://www.kaggle.com/jonykarki/begineers-pytorch-qntl-re
 Understanding evaluation metric(laplace log likelihood) :- https://www.kaggle.com/rohanrao/osic-understanding-laplace-log-likelihood
 End to end CT Scan and tabular data model(pytorch) :- https://www.kaggle.com/carlossouza/end-to-end-model-ct-scans-tabular
 Tabular data+ Linear model :- https://www.kaggle.com/titericz/tabular-simple-eda-linear-model
-Tensorflow notebooks:- * https://www.kaggle.com/khoongweihao/efficientnets-quantile-regression-inference/comments
-                       * https://www.kaggle.com/khoongweihao/k-fold-tf-efficientnet-models-training
-                       * https://www.kaggle.com/miklgr500/linear-decay-based-on-resnet-cnn
-Dicom preprocessing :- * https://www.kaggle.com/digvijayyadav/lung-fibrosis-dicom-image-preprocessing
-                       * https://www.kaggle.com/allunia/pulmonary-fibrosis-preprocessing
-                       * https://www.kaggle.com/muhakabartay/osic-pulmonary-fibrosis-basic-eda-dicom-full
-                       * https://www.kaggle.com/cpmpml/pulmonary-fibrosis-competition-eda-dicom-prep
 
-Pytorch notebooks:- * https://www.kaggle.com/yasufuminakama/osic-lgb-baseline
-                    * https://www.kaggle.com/akhileshdkapse/lung-segmentation-2d-3d-techniques-osic(segmentation)
-                    * https://www.kaggle.com/carlossouza/osic-autoencoder-training (autoencoder)
+**Tensorflow notebooks**:- 
+* https://www.kaggle.com/khoongweihao/efficientnets-quantile-regression-inference/comments
+* https://www.kaggle.com/khoongweihao/k-fold-tf-efficientnet-models-training
+* https://www.kaggle.com/miklgr500/linear-decay-based-on-resnet-cnn
+
+**Dicom preprocessing** :- 
+* https://www.kaggle.com/digvijayyadav/lung-fibrosis-dicom-image-preprocessing
+* https://www.kaggle.com/allunia/pulmonary-fibrosis-preprocessing
+* https://www.kaggle.com/muhakabartay/osic-pulmonary-fibrosis-basic-eda-dicom-full
+* https://www.kaggle.com/cpmpml/pulmonary-fibrosis-competition-eda-dicom-prep
+
+**Pytorch notebooks** :- 
+* https://www.kaggle.com/yasufuminakama/osic-lgb-baseline
+* https://www.kaggle.com/akhileshdkapse/lung-segmentation-2d-3d-techniques-osic(segmentation)
+* https://www.kaggle.com/carlossouza/osic-autoencoder-training (autoencoder)
 
 # Things I am planning to do 
 * eda
